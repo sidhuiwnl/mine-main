@@ -126,7 +126,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://utfs.io/f/DxVdWA8FlQ37EGDxUCltHycRwP0IKuqovkrae9F5JbBniCQx",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXf78UwVsBjpsdIe8iWE4XqvM5AkwH2TGgabDPY",
       video : ""
     },
     {
@@ -157,7 +157,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://utfs.io/f/DxVdWA8FlQ37SQkpJZFTvgqnATlPRNFjHW3E5iCMGkObw2LK",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfJRFvjJbT0CJMKGiQlvVAfLYS6B5Ire8DOhy7",
       video: "",
     },
     {
@@ -185,7 +185,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://utfs.io/f/DxVdWA8FlQ375RQlI8sHoOvd2f3jJ68xUuSLQaznAgbZBtVh",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfXWdJCBVKHvAEy5pgWIJYN9rGd2QRFqVZLhaD",
       video: "",
     },
     {
@@ -215,7 +215,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://utfs.io/f/DxVdWA8FlQ37c6lYMSvZ1sSxBG5V9872vFEh4lWwmACeNJrd",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfKTA6PRJvFpzLiORJkqxAeXo9PGB71Y3Hlrwh",
       video:
         "",
     },
