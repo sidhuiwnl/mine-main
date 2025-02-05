@@ -222,6 +222,22 @@ export const DATA = {
   ],
   Milestone: [
     {
+      title: "Surge",
+      dates: "Jan 10 - 27th, 2025",
+      description:
+          "Developed a Meeting Bot that records the meeting and able to generate contents related to the recordings",
+      icon: "public",
+      links: [
+        {
+          title : "Github",
+          icon : <Icons.github className="h-4 w-4" />,
+          href : "https://github.com/sidhuiwnl/Surge"
+
+        }
+      ],
+    }
+      ,
+    {
       title: "Commit-ai(Nodejs)",
       dates: "Nov 27 - 27th, 2024",
       description:
