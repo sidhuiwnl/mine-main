@@ -6,14 +6,14 @@ import testimonial from "../../public/testimonial.png"
 export const DATA = {
   name: "Sidharth Babu",
   initials: "B",
-  url: "https://dillion.io",
+  url: "https://mine-main.vercel.app",
   location: "Coimabatore, TN",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
     "I’m Sidharth a Full stack web developer. I am currently building small products that interest me.",
   summary:
     "I'm currently pursuing B.Tech Artificial Intelligence and Data Science and working to achieve the goal of becoming a developer.",
-  avatarUrl: "/me.jpg",
+  avatarUrl: "/s.png",
   skills: [
     "React",
     "Next.js",
