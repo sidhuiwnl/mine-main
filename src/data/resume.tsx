@@ -98,9 +98,9 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Testimonial",
-      href: "https://testimonial-vert.vercel.app",
-      dates: "Sep 2024 - Oct 2024",
+      title: "Endorsement",
+      href: "https://endorsement-nine.vercel.app",
+      dates: "Sep 2024 - Jan 2025",
       active: true,
       description:
       "Empowered brands with full control over their reputation through static, pre-optimized review components, easilyembedded to showcase social proof on websites.",
@@ -126,8 +126,37 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXf78UwVsBjpsdIe8iWE4XqvM5AkwH2TGgabDPY",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXf3vGwW0isbXmI3YHQN04kTMVZd6ocBzphKPuy",
       video : ""
+    },
+    {
+      title: "Surge",
+      href: "",
+      dates: "Jan 2025 - Feb 2025",
+      active: true,
+      description:
+          "Surge is a meeting bot that records meetings and generates AI-powered summaries of the recordings.",
+      technologies: [
+        "Reactjs",
+        "clerk auth",
+        "Puppeteer",
+        "Typescript",
+        "Websocket",
+        "PostgreSQL",
+        "Prisma",
+        "TailwindCSS",
+        "Shadcn UI",
+        "Magic UI",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/sidhuiwnl/Surge",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "",
+      video : "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXful67cE36uPjeydlQ1VcfNSsXmpHwDFZAxrE4"
     },
     {
       title: "Mesamous",
@@ -157,7 +186,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfJRFvjJbT0CJMKGiQlvVAfLYS6B5Ire8DOhy7",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXf7awOCvbBjpsdIe8iWE4XqvM5AkwH2TGgabDP",
       video: "",
     },
     {
@@ -185,7 +214,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfXWdJCBVKHvAEy5pgWIJYN9rGd2QRFqVZLhaD",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfKo6x8bvFpzLiORJkqxAeXo9PGB71Y3HlrwhC",
       video: "",
     },
     {
@@ -215,10 +244,11 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfKTA6PRJvFpzLiORJkqxAeXo9PGB71Y3Hlrwh",
+      image: "https://us7xgl2xx9.ufs.sh/f/NLwJvYRc8DXfxejX6zWm4ksrP56YLq2leFJcIjgK3CZnbUTf",
       video:
         "",
     },
+
   ],
   Milestone: [
     {
